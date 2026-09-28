@@ -1,4 +1,5 @@
 import argparse
+import pathlib
 
 from dotenv import load_dotenv
 from langchain_core.messages import HumanMessage
