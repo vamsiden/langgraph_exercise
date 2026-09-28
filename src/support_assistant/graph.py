@@ -18,7 +18,7 @@ Answer clearly and ask for any information needed to help resolve the request.""
 
 def build_graph(model: BaseChatModel | None = None):
     chat_model = model or ChatOpenAI(
-        model=os.getenv("OPENAI_MODEL", "gpt-4o-mini"),
+        model=os.getenv("OPENAI_MODEL", "gpt-6-luna"),
         temperature=0,
     )
 

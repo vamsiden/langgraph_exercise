@@ -17,7 +17,7 @@ Copy `.env.example` to `.env` and add an OpenAI API key to run the assistant:
 
 ```text
 OPENAI_API_KEY=your-key
-OPENAI_MODEL=gpt-4o-mini
+OPENAI_MODEL=gpt-6-luna
 ```
 
 Run the example:
