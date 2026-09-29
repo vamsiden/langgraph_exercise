@@ -1,0 +1,102 @@
+documents:
+  - file: 2q_2026_earnings_report.md
+    title: Morgan Stanley Second Quarter 2026 Earnings Results
+    type: earnings_report
+    period: Q2 2026 (quarter ended June 30, 2026)
+    published: 2026-07-15
+    summary: >
+      Quarterly financial results press release covering firmwide and segment
+      (Institutional Securities, Wealth Management, Investment Management)
+      net revenues, net income, EPS, ROE/ROTCE, expense efficiency ratio,
+      capital ratios, share repurchases, dividends, and the full consolidated
+      income statement.
+    topics:
+      - net revenues, net income, EPS, ROE, ROTCE
+      - segment results (Institutional Securities, Wealth Management, Investment Management)
+      - expense efficiency ratio, compensation and non-compensation expenses
+      - capital ratios (CET1, Tier 1, leverage ratios)
+      - share repurchases and dividends
+      - consolidated income statement (quarterly and six-month figures)
+    good_for_questions:
+      - Financial performance, revenue, profit, or earnings questions
+      - Segment-level revenue/expense breakdowns
+      - Capital return (buybacks, dividends) or capital ratio questions
+    not_for_questions:
+      - Data privacy or personal information handling
+      - AI/technology governance policy
+      - Workforce reductions/severance details (only references the total figure)
+
+  - file: ai_governance_and_technology_brief_2026.md
+    title: Morgan Stanley Global Technology & Emerging Technologies Policy Brief
+    type: internal_policy_brief
+    document_reference: POL-ENG-AI-2026-V2
+    published: 2026-06-10
+    summary: >
+      Firmwide policy standard governing AI/ML/NLP/GenAI systems: compute
+      and cloud region architecture, cross-border data transfer rules for
+      AI processing, data governance restrictions on what data may be used
+      for model training, and segment-specific technology investment
+      directives following the Q1 2026 workforce action.
+    topics:
+      - AI/ML/GenAI infrastructure, VPC enclaves, primary/DR regions
+      - cross-border data transfer and Standard Contractual Clauses for AI
+      - data categories prohibited/permitted for model training (biometrics, credentials, client interaction logs)
+      - segment technology investment priorities (ISG, WM, IM)
+    good_for_questions:
+      - How AI/ML is governed, restricted, or used at the firm
+      - Cross-border data transfer rules for AI systems
+      - What data can/cannot be used to train models
+      - Technology investment priorities per business segment
+    not_for_questions:
+      - General consumer privacy rights (see privacy policy doc instead)
+      - Financial performance figures
+      - Severance/headcount details
+
+  - file: global_workforce_restructuring_memo_mar2026.md
+    title: "Morgan Stanley Internal Memorandum: Strategic Reinvestment & Workforce Management Action"
+    type: internal_memo
+    published: 2026-03-18
+    summary: >
+      Internal memo describing the Q1 2026 global workforce reduction
+      (~2.0% of headcount, ~1,600 positions), the $178M pre-tax severance
+      charge broken down by segment, headcount trajectory, and post-employment
+      data retention/legal obligations for departing personnel.
+    topics:
+      - workforce reduction rationale and scope (headcount %, positions impacted)
+      - severance charges by segment (Institutional Securities, Wealth Management, Investment Management)
+      - headcount trend before/after the action
+      - departing employee data retention and access revocation obligations
+    good_for_questions:
+      - Layoffs, restructuring, severance costs, or headcount changes
+      - Employee/former-employee data retention after separation
+    not_for_questions:
+      - Consumer/retail customer privacy rights
+      - AI governance policy details
+      - Overall quarterly financial performance (only cites the $178M charge)
+
+  - file: privacy_policy_and_notice.md
+    title: U.S. Privacy Policy and Notice
+    type: privacy_policy
+    last_updated: 2026-05
+    summary: >
+      Consumer-facing privacy notice covering categories of personal
+      information collected, sources and purposes of collection/disclosure,
+      third-party disclosure categories, California (CCPA/CPRA) consumer
+      rights and how to submit privacy requests, AI/ML use disclosure,
+      communications/systems monitoring, and cookies.
+    topics:
+      - categories of personal information collected (identifiers, financial, biometric, sensitive, etc.)
+      - sources of collection and purposes of use/disclosure
+      - third parties personal information may be disclosed to
+      - California resident (CCPA/CPRA) rights: access, delete, correct, opt-out, non-discrimination
+      - how to submit a privacy rights request (phone/web form by business line)
+      - AI/ML use notice, communications monitoring, cookies
+    good_for_questions:
+      - What personal data is collected and how it's used/shared
+      - Consumer privacy rights and how to exercise them (CCPA/CPRA)
+      - Contact channels for privacy requests
+      - Cookies and monitoring of communications
+    not_for_questions:
+      - Company financial performance
+      - Internal AI infrastructure/governance policy
+      - Workforce restructuring or severance details
